@@ -3,6 +3,7 @@
 
 int main()
 {
+    char data2[10]="salunkhe";
     printf("Hello world!\n");
  printf("Hello world!\n");
     printf("Hello world!\n");
